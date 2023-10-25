@@ -2,7 +2,7 @@
 
 Currently, I am 16 years old and live in Berlin.
 
-I am passionate about programming and have a huge interest in algebra.
+My passions are software engineering and algebra.
 
 Contact: [petrovic@execs.com](mailto:petrovic@execs.com)
 
