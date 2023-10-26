@@ -4,8 +4,6 @@ Currently, I am 16 years old and live in Berlin.
 
 My passions are software engineering and algebra.
 
-Stackoverflow: [petrovicni](https://stackoverflow.com/users/22807632/petrovicni)
-
 Email Address: [petrovic@execs.com](mailto:petrovic@execs.com)
 
 #
