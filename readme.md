@@ -6,7 +6,7 @@ My passions are software engineering and algebra.
 
 Stackoverflow: [petrovicni](https://stackoverflow.com/users/22807632/petrovicni)
 
-Contact: [petrovic@execs.com](mailto:petrovic@execs.com)
+Email Address: [petrovic@execs.com](mailto:petrovic@execs.com)
 
 #
 
