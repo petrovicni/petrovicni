@@ -2,7 +2,7 @@
 
 Currently 18 years old and living in Berlin.
 
-My passions are basketball, reverse engineering and algebra.
+My passions are reverse engineering, algebra and basketball.
 
 Email Address: [petrovic@execs.com](mailto:petrovic@execs.com)
 
