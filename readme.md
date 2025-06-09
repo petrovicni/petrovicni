@@ -1,6 +1,6 @@
 # About Me
 
-Currently, I am 16 years old and live in Berlin.
+Currently, I am 18 years old and live in Berlin.
 
 My passions are software engineering and algebra.
 
